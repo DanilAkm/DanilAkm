@@ -13,11 +13,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danilakm&label=Profile%20views&color=0e75b6&style=flat" alt="danilakm" /> </p>
 
 <div align="center">
+
 - 🔭 I’m currently working on [cloud_devops_camp](https://github.com/DanilAkm/cloud_devops_camp)
 
 - 🌱 I’m currently learning **K8s, Ansible**
 
 - 📫 How to reach me **akmd.uk@gmail.com**
+
 </div>
 
 <h3 align="center">Connect with me:</h3>
