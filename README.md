@@ -14,7 +14,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on [cloud_devops_camp](https://github.com/DanilAkm/y-y-devops-trainings-cloud-1)
+🔭 I’m currently working on [Devops camp](https://github.com/DanilAkm/y-y-devops-trainings-cloud-1)
 
 🌱 I’m currently learning **K8s, Ansible, Terraform**
 
